@@ -1,0 +1,15 @@
+{
+  "name": "newsfeed",
+  "version": "1.0.0",
+  "description": "Sample API to test heroku",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "D.H.Yohan Kulasinghe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
